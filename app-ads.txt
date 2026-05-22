@@ -1,3 +1,1 @@
-# 금팡팡 app-ads.txt
-# 아래 pub-xxxxxxxxxxxxxxxx 부분을 실제 Google AdMob 게시자 ID로 교체하세요.
 google.com, pub-1683226489379178, DIRECT, f08c47fec0942fa0
